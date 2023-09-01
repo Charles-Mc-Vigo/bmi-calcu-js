@@ -26,5 +26,5 @@ function interpretation(result) {
 function clearResult() {
     document.getElementById('height').value = '';
     document.getElementById('weight').value = '';
-    document.getElementById('output').innerHTML = 'See your BMI here!';
+    document.getElementById('output').innerHTML = '';
 }
