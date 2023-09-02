@@ -40,6 +40,8 @@ body{
 button{
     cursor: pointer;
     border: none;
+    border-radius: 10px;
+    width: 90px;
 }
 
 .result{
@@ -55,6 +57,7 @@ button{
 .clear{
     background-color: rgb(198, 56, 56);
     color: whitesmoke;
+    border-radius: 10px;
 }
 
 
